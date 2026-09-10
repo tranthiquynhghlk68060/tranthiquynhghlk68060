@@ -1,7 +1,13 @@
-### Hi there, I'm Tranthiq Uynhghlk 👋
+# Hi there, I'm Quynh Tran 👋
 
-- 🔭 **Current Focus:** DevOps practitioner enthusiastic about GitOps, ArgoCD, and automated canary rollouts.
-- 🏢 **Organization:** CyberSphere Innovations
-- 📍 **Location:** New York, NY
-- 💬 Ask me about: Web Development, Cloud Architecture, Automation & Open Source
-- ⚡ Fun fact: Passionate about continuous learning and developer tooling.
+Software QA & Automation Engineer
+
+📍 Based in **Hanoi, Vietnam**
+
+### 💻 Tech Stack & Interests
+- 🌐 Web Technologies: JavaScript, TypeScript, HTML5, CSS3
+- 🛠️ Tools & Environments: Git, Cloudflare, Linux, VS Code
+- 📚 Continuous Learner | Open-source enthusiast
+
+---
+*Self-taught developer building clean, high-performance web applications.*
